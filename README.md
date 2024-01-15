@@ -3,6 +3,7 @@ The caption generator utilizing CNN (Convolutional Neural Networks) and LSTM (Lo
 Encoder decoder architecture .CNN encoder and RNN decoder.
 
 For the image caption generator, we will be using the Flickr_8K dataset.
+
 image Dataset:-https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
 
 Text dataset :-https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
